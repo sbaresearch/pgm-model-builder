@@ -52,6 +52,7 @@ python main.py [options]
 | `-h`, `--help`                   | Show help message and exit                                           |
 | `-v`, `--verbose`                | Print additional information                                         |
 | `-n`, `--name`                   | Name of result directory                                             | 
+| `-m`, `--model`                  | Path to model to use                                                 | 
 | `-uc`, `--use_cache`             | Use cached data to avoid processing lines and substations            |
 | `-gj`, `--geojson`               | Create a GeoJSON map of the grid                                     |
 | `-ms`, `--missing_consumer_subs` | Create a CSV listing the ELWOG substations not found in the OSM data |
