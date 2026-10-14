@@ -1,0 +1,5 @@
+lib
+**/__pycache__
+data/cached_data
+results/*
+.nvim*
