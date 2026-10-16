@@ -165,7 +165,7 @@ def get_import_export_substations(subs: gpd.GeoDataFrame) -> gpd.GeoDataFrame:
     """Marks the specified substations as import/export substation.
     Uses two methods for marking substations:
     Internal substations that are in austria are marked specifically by osm id in country_substation_ids.
-    External substations, where a location is specified and
+    External substations, where a location is specified and the closest substation in the dataset is found.
     """
     subs = subs.copy()
     subs["export_voltage"] = None
