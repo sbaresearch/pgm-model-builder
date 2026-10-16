@@ -29,6 +29,8 @@ def create_results_dir(name: str | None):
         os.makedirs("results/visualisation")
     if not os.path.isdir("results/extras"):
         os.makedirs("results/extras")
+    if not os.path.isdir("data/cached_data"):
+        os.makedirs("data/cached_data")
 
     filename = "results/"
     if name is None:
