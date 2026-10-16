@@ -5,3 +5,4 @@ results/*
 .nvim*
 data/substations/ELWOG_plus-Datensatz_USPW.csv
 data/operators
+
