@@ -1,8 +1,8 @@
 # Austrian Power Grid Model
 
-This project constructs a model of the Austrian power grid using data from [OpenStreetMap (OSM)](https://www.openstreetmap.org/), collected using the [Get OSM data](gitlab.sba-research.org/eris/get-osm-data) repository. It is designed to be used in conjunction with the [Nurzu Load Flow Simulation](https://gitlab.sba-research.org/eris/nurzu-load-flow-simulation) repository, which consumes the `Model` object produced here to simulate electrical power flow.
+This project constructs a model of the Austrian power grid using data from [OpenStreetMap (OSM)](https://www.openstreetmap.org/), collected using the [pgm-gather-osm-data](https://github.com/sbaresearch/pgm-gather-osm-data/tree/main) repository. It is designed to be used in conjunction with the [pgm-simulation](https://github.com/sbaresearch/pgm-simulation) repository, which consumes the `model` object produced here to simulate electrical power flow.
 
-This (along with [Nurzu Load Flow Simulation](https://gitlab.sba-research.org/eris/nurzu-load-flow-simulation) and [Get OSM data](gitlab.sba-research.org/eris/get-osm-data)) is part of a refactored and modularized successor to the now deprecated [nurzu-load-flow-analysis](https://gitlab.sba-research.org/johanna/nurzu-load-flow-analysis) repository.
+This (along with [pgm-simulation](https://github.com/sbaresearch/pgm-simulation) and [pgm-gather-osm-data](https://github.com/sbaresearch/pgm-gather-osm-data/tree/main)) were originally developed for the Nurzu! project.
 
 ## Overview
 
@@ -97,12 +97,9 @@ A shapefile of Austria’s states is used to assign each substation and communit
 
 ## Related Projects
 
-* **[Nurzu Load Flow Simulation](https://gitlab.sba-research.org/eris/nurzu-load-flow-simulation)**\
+* **[pgm-simulation](https://github.com/sbaresearch/pgm-simulation)**\
   Simulates power flow using the model produced by this project.
 
-* **[Get OSM data](gitlab.sba-research.org/eris/get-osm-data)**\
+* **[pgm-gather-osm-data](https://github.com/sbaresearch/pgm-gather-osm-data/tree/main)**\
   Collects power grid infrastructure data from OSM.
-
-* **Deprecated:**\
-  [Nurzu Load Flow Analysis](https://gitlab.sba-research.org/johanna/nurzu-load-flow-analysis) (this project and *Nurzu Load Flow Simulation* replace it)
 
