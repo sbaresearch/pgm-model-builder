@@ -103,3 +103,8 @@ A shapefile of Austria’s states is used to assign each substation and communit
 * **[pgm-gather-osm-data](https://github.com/sbaresearch/pgm-gather-osm-data/tree/main)**\
   Collects power grid infrastructure data from OSM.
 
+## Sources
+
+In addition to the data from OSM, collected using the [pgm-gather-osm-data](https://github.com/sbaresearch/pgm-gather-osm-data/tree/main) repository, two additional data files are required. These are found in the "data" directory, with txt files citing the sources used for each file, in English and in German.
+
+The data files contain information about which substations the gemeinde of Austria connect to (found in the data/substations directory), and the areas of Austria covered by the different regional energy operators (found in the data/operator_areas directory).
