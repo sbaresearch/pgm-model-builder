@@ -1,0 +1,16 @@
+Umspannwerke sämtlicher österreichischer Netzbetreiber:
+https://www.ebutilities.at/verfuegbare-netzanschlusskapazitaeten
+abgerufen am 13.11.2025
+
+Open Infrastructure Map (OIM):
+https://openinframap.org
+zuletzt abgerufen am 22.11.2025
+
+Netzentwicklungspläne 2024 von:
+Netz Burgenland GmbH, KNG - Kärnten Netz GmbH, Energie Klagenfurt GmbH, Netz Niederösterreich GmbH, Netz Oberösterreich GmbH, Linz Netz GmbH, eww ag (Energieversorger Wels), Salzburg Netz GmbH, Energienetze Steiermark GmbH, Stromnetz Graz GmbH, TINETZ – Tiroler Netze GmbH, IKB – Innsbrucker Kommunalbetriebe AG, Vorarlberger Energienetze GmbH, Wiener Netze GmbH
+https://www.ebutilities.at/informationen/VNEP
+abgerufen am 24.11.2025
+
+BEV-Datensatz „Digitales Landschaftsmodell – Bauwerke Stichtag 25.3.2025“
+https://data.bev.gv.at/geonetwork/srv/ger/catalog.search#/metadata/e79b6825-7b6a-45db-b3a7-a44a58732609
+abgerufen am 7.10.2025

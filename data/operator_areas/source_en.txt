@@ -1,0 +1,14 @@
+The service areas of the nine regional grid operators are shown; in some cases, these do not align with the boundaries
+of the federal states (e.g., the service area of Wiener Netze includes the surroundings of Vienna and extends as far
+south as Wiener Neustadt; the service area of Netz Oberösterreich GmbH also encompasses the Styrian part of the
+Salzkammergut region, including the Bad Aussee substation). Furthermore, the service areas of Linz Netz GmbH (which
+serves municipalities in northeastern Upper Austria) and Elektrizitätswerke Reutte AG (which serves municipalities
+primarily in the Lechtal valley in Tyrol) are accounted for separately.
+
+Certain small, localized enclaves within these service areas are not included. This also applies to the service areas of
+municipal grid operators located within larger cities (Klagenfurt, Linz, Wels, Graz, and Innsbruck)—a limitation
+primarily due to insufficient information regarding the routing of inner-city power lines. Consequently, these cities
+are assigned directly to the nearest substation of the respective regional grid operator, thereby placing them within
+that operator's service area. Selected substations within the city of Vienna are included in the dataset to allow for
+the highest possible spatial resolution when incorporating data into the load-flow analysis at the level of Vienna’s
+municipal districts.

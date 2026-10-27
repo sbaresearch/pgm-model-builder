@@ -1,0 +1,16 @@
+Substations of all Austrian grid operators:
+https://www.ebutilities.at/verfuegbare-netzanschlusskapazitaeten
+accessed on 13 November 2025
+
+Open Infrastructure Map (OIM):
+https://openinframap.org
+last accessed on 22 November 2025
+
+2024 Grid Development Plans from:
+Netz Burgenland GmbH, KNG - Kärnten Netz GmbH, Energie Klagenfurt GmbH, Netz Niederösterreich GmbH, Netz Oberösterreich GmbH, Linz Netz GmbH, eww ag (Energieversorger Wels), Salzburg Netz GmbH, Energienetze Steiermark GmbH, Stromnetz Graz GmbH, TINETZ – Tiroler Netze GmbH, IKB – Innsbrucker Kommunalbetriebe AG, Vorarlberger Energienetze GmbH, Wiener Netze GmbH
+https://www.ebutilities.at/informationen/VNEP
+accessed on 24 November 2025
+
+BEV dataset "Digital Landscape Model – Structures (reference date: 25 March 2025)"
+https://data.bev.gv.at/geonetwork/srv/ger/catalog.search#/metadata/e79b6825-7b6a-45db-b3a7-a44a58732609
+accessed on 7 October 2025

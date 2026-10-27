@@ -25,7 +25,7 @@ def merge_consumer_substations(subs: gpd.GeoDataFrame) -> gpd.GeoDataFrame:
     subs = subs.copy()
 
     # Load ELWOG Substations
-    elwog_subs = pd.read_csv("data/substations/ELWOG_plus-Datensatz_USPW.csv", sep=";")
+    elwog_subs = pd.read_csv("data/substations/consumer_substations_20261026.csv")
     elwog_subs = elwog_subs.rename(columns=str.lower).rename(
         columns={
             "latitude (y)": "lat",
@@ -39,8 +39,6 @@ def merge_consumer_substations(subs: gpd.GeoDataFrame) -> gpd.GeoDataFrame:
     elwog_subs["elwog_id"] = elwog_subs.elwog_id.astype(int)
     elwog_subs["status"] = elwog_subs.status.astype(int)
     elwog_subs["in_service"] = elwog_subs.in_service.map({"ja": True, "nein": False})
-    elwog_subs["lon"] = elwog_subs.lon.str.replace(",", ".").astype(float)
-    elwog_subs["lat"] = elwog_subs.lat.str.replace(",", ".").astype(float)
 
     # Filter out substations not in service in 2022
     elwog_subs = elwog_subs[elwog_subs.in_service]
@@ -56,7 +54,9 @@ def merge_consumer_substations(subs: gpd.GeoDataFrame) -> gpd.GeoDataFrame:
     potential_subs = subs[subs["type"] != "missing_line_connection_substation"]
 
     # Add which operator area the substations are part of
-    operator_areas = gpd.read_file("data/operators/OperatorAreas.shp").rename(columns={"NAME": "operator_area"})
+    operator_areas = gpd.read_file("data/operator_areas/operator_areas.gpkg").rename(
+        columns={"operator": "operator_area"}
+    )
 
     potential_subs = (
         gpd.sjoin(

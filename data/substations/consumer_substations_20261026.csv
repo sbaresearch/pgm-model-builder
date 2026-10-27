@@ -1,0 +1,461 @@
+USPW-ID,USPW-Name,Bundesland,Betreiber,Longitude (x),Latitude (y),Quelle,Typ,Betrieb_2022
+1,Deutschkreutz,Burgenland,Netz Burgenland GmbH,16.59746,47.59655,ELWOG,1,ja
+2,Eisenstadt,Burgenland,Netz Burgenland GmbH,16.5461,47.84417,ELWOG,1,ja
+3,Eltendorf,Burgenland,Netz Burgenland GmbH,16.19146,47.01042,ELWOG,1,ja
+4,Frauenkirchen,Burgenland,Netz Burgenland GmbH,16.90066,47.84467,ELWOG,1,ja
+5,Güssing,Burgenland,Netz Burgenland GmbH,16.31765,47.07376,ELWOG,1,ja
+6,Jennersdorf,Burgenland,Netz Burgenland GmbH,16.12809,46.92889,ELWOG,1,ja
+7,Markt St. Martin,Burgenland,Netz Burgenland GmbH,16.41989,47.5573,ELWOG,1,ja
+8,Mattersburg,Burgenland,Netz Burgenland GmbH,16.38294,47.72241,ELWOG,1,ja
+9,Neudörfl,Burgenland,Netz Burgenland GmbH,16.27389,47.80162,ELWOG,1,ja
+10,Neusiedl,Burgenland,Netz Burgenland GmbH,16.8363,47.96071,ELWOG,1,ja
+11,Oberpullendorf,Burgenland,Netz Burgenland GmbH,16.48933,47.49493,ELWOG,1,ja
+12,Pama,Burgenland,Netz Burgenland GmbH,17.02613,48.03926,ELWOG,1,ja
+13,Pinkafeld,Burgenland,Netz Burgenland GmbH,16.12345,47.36144,ELWOG,1,ja
+14,Rotenturm,Burgenland,Netz Burgenland GmbH,16.27604,47.25145,ELWOG,1,ja
+15,Stegersbach,Burgenland,Netz Burgenland GmbH,16.1829,47.17326,ELWOG,1,ja
+16,Steinbrunn,Burgenland,Netz Burgenland GmbH,16.43677,47.81914,ELWOG,1,ja
+17,Wimpassing,Burgenland,Netz Burgenland GmbH,16.45205,47.90509,ELWOG,1,ja
+18,Zurndorf,Burgenland,Netz Burgenland GmbH,16.99346,47.93765,ELWOG,1,ja
+20,Klagenfurt Nord,Kärnten,Energie Klagenfurt GmbH,14.31547,46.63008,ELWOG,7,ja
+21,Klagenfurt Ost,Kärnten,Energie Klagenfurt GmbH,14.33551,46.63088,ELWOG,7,ja
+22,Klagenfurt Süd,Kärnten,KNG - Kärnten Netz GmbH,14.32099,46.60708,ELWOG,1,ja
+23,Klagenfurt West,Kärnten,Energie Klagenfurt GmbH,14.28073,46.61173,ELWOG,7,ja
+24,Auen,Kärnten,KNG - Kärnten Netz GmbH,13.859782,46.595263,ELWOG,1,ja
+25,Außerfragant,Kärnten,KNG - Kärnten Netz GmbH,13.110602,46.934582,ELWOG,1,ja
+26,Bleiburg,Kärnten,KNG - Kärnten Netz GmbH,14.78507,46.628568,ELWOG,1,ja
+27,Brückl,Kärnten,KNG - Kärnten Netz GmbH,14.525265,46.733716,ELWOG,1,ja
+28,Ettendorf,Kärnten,KNG - Kärnten Netz GmbH,14.95704,46.673213,ELWOG,1,ja
+29,Feldkirchen i.K.,Kärnten,KNG - Kärnten Netz GmbH,14.090979,46.719941,ELWOG,1,ja
+30,Ferlach,Kärnten,KNG - Kärnten Netz GmbH,14.297984,46.529037,ELWOG,1,ja
+31,Forstsee,Kärnten,KNG - Kärnten Netz GmbH,14.073347,46.622624,ELWOG,1,ja
+32,Freibach,Kärnten,KNG - Kärnten Netz GmbH,14.483149,46.559342,ELWOG,1,ja
+33,Fürnitz,Kärnten,KNG - Kärnten Netz GmbH,13.816997,46.557731,ELWOG,1,ja
+34,Gailitz,Kärnten,KNG - Kärnten Netz GmbH,13.694565,46.561202,ELWOG,1,ja
+35,Gmünd i.K.,Kärnten,KNG - Kärnten Netz GmbH,13.53682,46.91312,ELWOG,1,ja
+36,Gummern,Kärnten,KNG - Kärnten Netz GmbH,13.789856,46.651753,ELWOG,1,ja
+37,Gurk,Kärnten,KNG - Kärnten Netz GmbH,14.302962,46.878331,ELWOG,1,ja
+38,Hermagor,Kärnten,KNG - Kärnten Netz GmbH,13.379924,46.628787,ELWOG,1,ja
+39,Innerfragant,Kärnten,KNG - Kärnten Netz GmbH,13.051855,46.976889,ELWOG,1,ja
+40,Kamering,Kärnten,KNG - Kärnten Netz GmbH,13.59371,46.739671,ELWOG,1,ja
+42,Kleinkirchheim,Kärnten,KNG - Kärnten Netz GmbH,13.77178,46.810567,ELWOG,1,ja
+43,Koralpe,Kärnten,KNG - Kärnten Netz GmbH,14.955949,46.634057,ELWOG,1,ja
+44,Landskron,Kärnten,KNG - Kärnten Netz GmbH,13.892654,46.631087,ELWOG,1,ja
+45,Lassendorf,Kärnten,KNG - Kärnten Netz GmbH,14.420761,46.667206,ELWOG,1,ja
+46,Lieserhofen,Kärnten,KNG - Kärnten Netz GmbH,13.477085,46.829931,ELWOG,1,ja
+47,Malta Unterstufe,Kärnten,KNG - Kärnten Netz GmbH,13.360248,46.833286,ELWOG,1,ja
+48,Oberdrauburg,Kärnten,KNG - Kärnten Netz GmbH,12.967463,46.74183,ELWOG,1,ja
+49,Radenthein,Kärnten,KNG - Kärnten Netz GmbH,13.688658,46.799072,ELWOG,1,ja
+50,Rennweg,Kärnten,KNG - Kärnten Netz GmbH,13.60402,47.02905,ELWOG,1,ja
+51,Rosegg,Kärnten,KNG - Kärnten Netz GmbH,14.026762,46.567494,ELWOG,1,ja
+52,Seebach,Kärnten,KNG - Kärnten Netz GmbH,13.877428,46.617058,ELWOG,1,ja
+53,Spittal,Kärnten,KNG - Kärnten Netz GmbH,13.519832,46.789854,ELWOG,1,ja
+54,St. Andrä,Kärnten,KNG - Kärnten Netz GmbH,14.837895,46.772678,ELWOG,1,ja
+55,St. Leonhard,Kärnten,KNG - Kärnten Netz GmbH,14.785865,46.970827,ELWOG,1,ja
+56,St. Margareten,Kärnten,KNG - Kärnten Netz GmbH,14.396446,46.545439,ELWOG,1,ja
+57,St. Martin/Drau,Kärnten,KNG - Kärnten Netz GmbH,13.989591,46.578495,ELWOG,1,ja
+58,St. Veit/Glan,Kärnten,KNG - Kärnten Netz GmbH,14.374472,46.760961,ELWOG,1,ja
+59,Steinfeld,Kärnten,KNG - Kärnten Netz GmbH,13.251365,46.754038,ELWOG,1,ja
+60,Treibach,Kärnten,KNG - Kärnten Netz GmbH,14.463749,46.860791,ELWOG,1,ja
+61,Tröpolach,Kärnten,KNG - Kärnten Netz GmbH,13.279204,46.61747,ELWOG,1,ja
+62,Villach Süd,Kärnten,KNG - Kärnten Netz GmbH,13.828311,46.555769,ELWOG,1,ja
+63,Völkermarkt,Kärnten,KNG - Kärnten Netz GmbH,14.61938,46.660763,ELWOG,1,ja
+64,Vorderberg,Kärnten,KNG - Kärnten Netz GmbH,13.533679,46.587288,ELWOG,1,ja
+65,Warmbad,Kärnten,KNG - Kärnten Netz GmbH,13.833168,46.595498,ELWOG,1,ja
+66,Wietersdorf,Kärnten,KNG - Kärnten Netz GmbH,14.538237,46.84161,ELWOG,1,ja
+67,Windischbach,Kärnten,KNG - Kärnten Netz GmbH,14.210409,46.690004,ELWOG,1,ja
+68,Wolfsberg,Kärnten,KNG - Kärnten Netz GmbH,14.840994,46.847584,ELWOG,1,ja
+69,Wölla,Kärnten,KNG - Kärnten Netz GmbH,13.073296,46.867337,ELWOG,1,ja
+70,Würmlach,Kärnten,KNG - Kärnten Netz GmbH,13.071089,46.649257,ELWOG,1,ja
+71,Zirknitz,Kärnten,KNG - Kärnten Netz GmbH,12.956976,46.995528,ELWOG,1,ja
+72,Am Schuß,Niederösterreich,Netz Niederösterreich GmbH,15.256515,48.30186082,ELWOG,1,ja
+73,Amstetten,Niederösterreich,Netz Niederösterreich GmbH,14.866594,48.11168779,ELWOG,1,ja
+74,Amstetten Ost,Niederösterreich,Netz Niederösterreich GmbH,14.909147,48.11228021,ELWOG,1,ja
+75,Bisamberg,Niederösterreich,Netz Niederösterreich GmbH,16.37651254,48.35563674,ELWOG,9,ja
+76,Bockfließ,Niederösterreich,Netz Niederösterreich GmbH,16.62572524,48.33826507,ELWOG,0,ja
+77,Bruck/Leitha,Niederösterreich,Netz Niederösterreich GmbH,16.767628,48.03362213,ELWOG,1,ja
+78,Deutsch-Altenburg,Niederösterreich,Netz Niederösterreich GmbH,16.919827,48.12222895,ELWOG,1,ja
+79,Dürnrohr,Niederösterreich,Netz Niederösterreich GmbH,15.883403,48.32933941,ELWOG,1,ja
+80,Edlitz,Niederösterreich,Netz Niederösterreich GmbH,16.126665,47.61092102,ELWOG,1,ja
+81,Eggenburg,Niederösterreich,Netz Niederösterreich GmbH,15.831733,48.66286731,ELWOG,1,ja
+82,Eibesbrunn,Niederösterreich,Netz Niederösterreich GmbH,16.505301,48.36102335,ELWOG,1,ja
+84,Enzersdorf/Fischa,Niederösterreich,Netz Niederösterreich GmbH,16.614917,48.06483879,ELWOG,1,ja
+85,Erlauf,Niederösterreich,Netz Niederösterreich GmbH,15.180901,48.18597833,ELWOG,1,ja
+86,Erlaufboden,Niederösterreich,Netz Niederösterreich GmbH,15.266511,47.87999663,ELWOG,1,ja
+87,Ernsthofen,Niederösterreich,Netz Niederösterreich GmbH,14.475118,48.12497076,ELWOG,1,ja
+88,Gänserndorf,Niederösterreich,Netz Niederösterreich GmbH,16.713807,48.34418374,ELWOG,1,ja
+89,Gaweinstal,Niederösterreich,Netz Niederösterreich GmbH,16.56928822,48.47420455,ELWOG,0,ja
+90,Gerstl,Niederösterreich,Netz Niederösterreich GmbH,14.74124,47.98855618,ELWOG,1,ja
+91,Gmünd,Niederösterreich,Netz Niederösterreich GmbH,14.988304,48.76172933,ELWOG,1,ja
+92,Gresten,Niederösterreich,Netz Niederösterreich GmbH,15.023785,47.99120936,ELWOG,1,ja
+93,Groß Gerungs,Niederösterreich,Netz Niederösterreich GmbH,14.990683,48.57210137,ELWOG,1,ja
+94,Grubberg,Niederösterreich,Netz Niederösterreich GmbH,15.067891,47.88699277,ELWOG,1,ja
+95,Haag Süd,Niederösterreich,Netz Niederösterreich GmbH,14.5791,48.097,ELWOG,1,ja
+96,Hainfeld,Niederösterreich,Netz Niederösterreich GmbH,15.76817,48.03332061,ELWOG,1,ja
+97,Hart,Niederösterreich,Netz Niederösterreich GmbH,15.932682,47.6640925,ELWOG,1,ja
+98,Hauskirchen,Niederösterreich,Netz Niederösterreich GmbH,16.74898311,48.62586863,ELWOG,0,ja
+99,Hausmening,Niederösterreich,Netz Niederösterreich GmbH,14.81199,48.06240439,ELWOG,1,ja
+100,Heidenreichstein,Niederösterreich,Netz Niederösterreich GmbH,15.103408,48.85494768,ELWOG,1,ja
+101,Herzogenburg,Niederösterreich,Netz Niederösterreich GmbH,15.711402,48.28469634,ELWOG,1,ja
+102,Höflein,Niederösterreich,Netz Niederösterreich GmbH,16.78510523,48.04816902,ELWOG,0,ja
+103,Hohe Wand,Niederösterreich,Netz Niederösterreich GmbH,16.104192,47.72631393,ELWOG,1,ja
+104,Hollabrunn,Niederösterreich,Netz Niederösterreich GmbH,16.070915,48.55935981,ELWOG,1,ja
+105,Horn,Niederösterreich,Netz Niederösterreich GmbH,15.632312,48.64735279,ELWOG,1,ja
+106,Japons,Niederösterreich,Netz Niederösterreich GmbH,15.542303,48.77763549,ELWOG,1,ja
+107,Kettlasbrunn Süd,Niederösterreich,Netz Niederösterreich GmbH,16.625168749718,48.534142088933,ELWOG,0,ja
+108,Kilb,Niederösterreich,Netz Niederösterreich GmbH,15.389968,48.0891257,ELWOG,1,ja
+109,Kirchberg/Wagram,Niederösterreich,Netz Niederösterreich GmbH,15.87986,48.42808213,ELWOG,1,ja
+110,Korneuburg West,Niederösterreich,Netz Niederösterreich GmbH,16.323745,48.35718022,ELWOG,1,ja
+111,Krems,Niederösterreich,Netz Niederösterreich GmbH,15.606943,48.40688868,ELWOG,1,ja
+112,Krumau,Niederösterreich,Netz Niederösterreich GmbH,15.443461,48.58927633,ELWOG,1,ja
+113,Laa/Thaya,Niederösterreich,Netz Niederösterreich GmbH,16.38256482,48.71489385,ELWOG,1,ja
+114,Langenlois,Niederösterreich,Netz Niederösterreich GmbH,15.69334759,48.48057558,ELWOG,1,ja
+115,Lassee,Niederösterreich,Netz Niederösterreich GmbH,16.79982731,48.22278122,ELWOG,1,ja
+116,Loosdorf,Niederösterreich,Netz Niederösterreich GmbH,15.39024503,48.19724664,ELWOG,1,ja
+117,Mistelbach,Niederösterreich,Netz Niederösterreich GmbH,16.57643663,48.56092573,ELWOG,1,ja
+118,Neuhaus,Niederösterreich,Netz Niederösterreich GmbH,16.04012986,48.00409994,ELWOG,1,ja
+119,Neulengbach,Niederösterreich,Netz Niederösterreich GmbH,15.90613777,48.20573109,ELWOG,1,ja
+120,Neusiedl/Zaya,Niederösterreich,Netz Niederösterreich GmbH,16.79790636,48.60613668,ELWOG,1,ja
+122,Ottenstein,Niederösterreich,Netz Niederösterreich GmbH,15.33307919,48.59230086,ELWOG,1,ja
+123,Peigarten,Niederösterreich,Netz Niederösterreich GmbH,16.04978946,48.69717468,ELWOG,1,ja
+124,Petronell,Niederösterreich,Netz Niederösterreich GmbH,16.86580073,48.09582608,ELWOG,0,ja
+125,Pottenbrunn,Niederösterreich,Netz Niederösterreich GmbH,15.68785393,48.22428875,ELWOG,1,ja
+126,Pottenstein,Niederösterreich,Netz Niederösterreich GmbH,16.09754551,47.95358048,ELWOG,1,ja
+127,Poysdorf,Niederösterreich,Netz Niederösterreich GmbH,16.6304003,48.65530685,ELWOG,1,ja
+128,Preßbaum,Niederösterreich,Netz Niederösterreich GmbH,16.06990223,48.17808531,ELWOG,1,ja
+129,Prinzendorf-Steinberg,Niederösterreich,Netz Niederösterreich GmbH,16.74684053,48.58740052,ELWOG,0,ja
+130,Prottes,Niederösterreich,Netz Niederösterreich GmbH,16.76198383,48.38613443,ELWOG,0,ja
+131,Pyburg,Niederösterreich,Netz Niederösterreich GmbH,14.51628733,48.23230844,ELWOG,1,ja
+132,Sallingberg,Niederösterreich,Netz Niederösterreich GmbH,15.24156794,48.47402327,ELWOG,1,ja
+133,Sarasdorf,Niederösterreich,Netz Niederösterreich GmbH,16.69454542,48.03157194,ELWOG,0,ja
+134,Schöller,Niederösterreich,Netz Niederösterreich GmbH,16.03136226,47.71069546,ELWOG,1,ja
+135,Spannberg,Niederösterreich,Netz Niederösterreich GmbH,16.76020605,48.46754035,ELWOG,1,ja
+137,St. Pölten West,Niederösterreich,Netz Niederösterreich GmbH,15.60671616,48.19891381,ELWOG,1,ja
+138,Stockerau,Niederösterreich,Netz Niederösterreich GmbH,16.20644924,48.39320761,ELWOG,1,ja
+139,Stollhofen,Niederösterreich,Netz Niederösterreich GmbH,15.75764708,48.35684194,ELWOG,1,ja
+140,Stratzdorf,Niederösterreich,Netz Niederösterreich GmbH,15.69021659,48.40923731,ELWOG,1,ja
+141,Ternitz,Niederösterreich,Netz Niederösterreich GmbH,16.06402212,47.70878176,ELWOG,1,ja
+142,Traisen,Niederösterreich,Netz Niederösterreich GmbH,15.61624425,48.04504588,ELWOG,1,ja
+143,Tulln West,Niederösterreich,Netz Niederösterreich GmbH,16.04141889,48.3139414,ELWOG,1,ja
+144,Türnitz,Niederösterreich,Netz Niederösterreich GmbH,15.47715899,47.9303108,ELWOG,1,ja
+145,Untersiebenbrunn,Niederösterreich,Netz Niederösterreich GmbH,16.74857401,48.26544682,ELWOG,0,ja
+146,Waidhofen/Thaya,Niederösterreich,Netz Niederösterreich GmbH,15.27590573,48.80682562,ELWOG,1,ja
+147,Waldegg,Niederösterreich,Netz Niederösterreich GmbH,16.05589389,47.86773885,ELWOG,1,ja
+148,Wasenbruck,Niederösterreich,Netz Niederösterreich GmbH,16.56829642,47.97926528,ELWOG,1,ja
+149,Wieselburg,Niederösterreich,Netz Niederösterreich GmbH,15.13430104,48.11097361,ELWOG,1,ja
+150,Wilhelmsburg,Niederösterreich,Netz Niederösterreich GmbH,15.61335746,48.11122004,ELWOG,1,ja
+151,Wöllersdorf,Niederösterreich,Netz Niederösterreich GmbH,16.1870131,47.84857738,ELWOG,1,ja
+152,Wr. Neustadt,Niederösterreich,Netz Niederösterreich GmbH,16.2681561,47.81612159,ELWOG,1,ja
+153,Wr. Neustadt Flugfeld,Niederösterreich,Netz Niederösterreich GmbH,16.24577669,47.83650801,ELWOG,1,ja
+154,Zagging,Niederösterreich,Netz Niederösterreich GmbH,15.65270427,48.27219299,ELWOG,0,ja
+155,Zwettl,Niederösterreich,Netz Niederösterreich GmbH,15.18001167,48.59943912,ELWOG,1,ja
+156,Baden,Niederösterreich,Wiener Netze GmbH,16.24753,48.00088,ELWOG,1,ja
+157,Ebenfurth,Niederösterreich,Wiener Netze GmbH,16.35516,47.87189,ELWOG,1,ja
+158,Ebreichsdorf,Niederösterreich,Wiener Netze GmbH,16.37432,47.97245,ELWOG,1,ja
+159,Enzesfeld,Niederösterreich,Wiener Netze GmbH,16.18568,47.92436,ELWOG,1,ja
+160,Gerasdorf,Niederösterreich,Wiener Netze GmbH,16.42992,48.32751,ELWOG,1,ja
+161,Klosterneuburg,Niederösterreich,Wiener Netze GmbH,16.33375,48.30008,ELWOG,1,ja
+162,Moosbrunn,Niederösterreich,Wiener Netze GmbH,16.46274,48.0275,ELWOG,1,ja
+163,Traiskirchen,Niederösterreich,Wiener Netze GmbH,16.28473,48.01007,ELWOG,1,ja
+164,Wr. Neudorf,Niederösterreich,Wiener Netze GmbH,16.30827,48.08178,ELWOG,1,ja
+166,Wels FHK,Oberösterreich,eww ag,14.006849083078,48.152124428269,ELWOG,7,ja
+167,Wels Mitte,Oberösterreich,eww ag,14.029334149131,48.161306499,ELWOG,7,ja
+168,Wels Nord,Oberösterreich,eww ag,14.00822243416,48.168994495278,ELWOG,7,ja
+169,Wels Ost,Oberösterreich,eww ag,14.059471730738,48.165385247576,ELWOG,7,ja
+170,Abwinden-Asten,Oberösterreich,Linz Netz GmbH,14.427724,48.247457,ELWOG,9,ja
+171,Baumgartenberg,Oberösterreich,Linz Netz GmbH,14.759865,48.205768,ELWOG,1,ja
+172,Enns Industrie,Oberösterreich,Linz Netz GmbH,14.494848,48.234398659021,ELWOG,1,ja
+173,Franzosenhausweg,Oberösterreich,Linz Netz GmbH,14.299302,48.242643508062,ELWOG,7,ja
+174,Freistadt,Oberösterreich,Linz Netz GmbH,14.496677,48.496541098353,ELWOG,1,ja
+175,Friensdorf,Oberösterreich,Linz Netz GmbH,14.500671,48.359805492799,ELWOG,1,ja
+176,Gaumberg,Oberösterreich,Linz Netz GmbH,14.27577,48.276597569025,ELWOG,7,ja
+177,Kleinmünchen,Oberösterreich,Linz Netz GmbH,14.31973,48.249982216817,ELWOG,7,ja
+178,Leonding,Oberösterreich,Linz Netz GmbH,14.226104,48.268888787559,ELWOG,1,ja
+179,Linz City,Oberösterreich,Linz Netz GmbH,14.300208,48.296820544953,ELWOG,7,ja
+180,Linz FHKW Mitte,Oberösterreich,Linz Netz GmbH,14.322095,48.300625606332,ELWOG,7,ja
+181,Linz FHKW Süd,Oberösterreich,Linz Netz GmbH,14.347507,48.267428326037,ELWOG,7,ja
+182,Linz Industrie,Oberösterreich,Linz Netz GmbH,14.323953,48.292041259232,ELWOG,7,ja
+183,Linz Katzbach,Oberösterreich,Linz Netz GmbH,14.3243,48.324313439686,ELWOG,7,ja
+184,Linz Mitte,Oberösterreich,Linz Netz GmbH,14.303636201485,48.311163798567,ELWOG,7,ja
+185,Linz Nord,Oberösterreich,Linz Netz GmbH,14.299121,48.324698029223,ELWOG,7,ja
+187,Linz Nordwest,Oberösterreich,Linz Netz GmbH,14.276241,48.311125424952,ELWOG,7,ja
+188,Linz Ost,Oberösterreich,Linz Netz GmbH,14.330932,48.287640156002,ELWOG,7,ja
+190,Linz Zentrum,Oberösterreich,Linz Netz GmbH,14.286098,48.291799750709,ELWOG,7,ja
+191,Mauthausen,Oberösterreich,Linz Netz GmbH,14.538888,48.241369736797,ELWOG,1,ja
+192,Pichling,Oberösterreich,Linz Netz GmbH,14.37654,48.25657,ELWOG,7,ja
+193,Rainbach,Oberösterreich,Linz Netz GmbH,14.488888,48.533683225084,ELWOG,1,ja
+195,Wienerstraße,Oberösterreich,Linz Netz GmbH,14.310111,48.283051108632,ELWOG,7,ja
+196,Aigerding,Oberösterreich,Netz Oberösterreich GmbH,13.44937,48.44831,ELWOG,1,ja
+197,Antiesenhofen,Oberösterreich,Netz Oberösterreich GmbH,13.39531,48.3502,ELWOG,1,ja
+198,Bad Hall,Oberösterreich,Netz Oberösterreich GmbH,14.2082,48.04866,ELWOG,1,ja
+199,Eferding,Oberösterreich,Netz Oberösterreich GmbH,14.00774,48.30288,ELWOG,1,ja
+200,Feldkirchen/Donau,Oberösterreich,Netz Oberösterreich GmbH,14.07985,48.34965,ELWOG,1,ja
+201,Frankenmarkt,Oberösterreich,Netz Oberösterreich GmbH,13.38597,47.97959,ELWOG,1,ja
+202,Gmunden,Oberösterreich,Netz Oberösterreich GmbH,13.78547,47.92369,ELWOG,1,ja
+203,Grieskirchen,Oberösterreich,Netz Oberösterreich GmbH,13.81881,48.23629,ELWOG,1,ja
+204,Großraming,Oberösterreich,Netz Oberösterreich GmbH,14.51652,47.89225,ELWOG,1,ja
+205,Gundertshausen,Oberösterreich,Netz Oberösterreich GmbH,12.99158,48.09673,ELWOG,1,ja
+206,Hörsching,Oberösterreich,Netz Oberösterreich GmbH,14.16849,48.20758,ELWOG,1,ja
+207,Jahrsdorf,Oberösterreich,Netz Oberösterreich GmbH,13.07997,48.25429,ELWOG,1,ja
+208,Kirchdorf,Oberösterreich,Netz Oberösterreich GmbH,14.11211,47.90696,ELWOG,1,ja
+209,Klaus,Oberösterreich,Netz Oberösterreich GmbH,14.16324,47.8215,ELWOG,1,ja
+210,Kremsmünster,Oberösterreich,Netz Oberösterreich GmbH,14.12343,48.03994,ELWOG,1,ja
+211,Lambach,Oberösterreich,Netz Oberösterreich GmbH,13.90067,48.10393,ELWOG,1,ja
+212,Lengau,Oberösterreich,Netz Oberösterreich GmbH,13.23208,47.98761,ELWOG,1,ja
+213,Marchtrenk,Oberösterreich,Netz Oberösterreich GmbH,14.09967,48.17256,ELWOG,1,ja
+214,Mattighofen,Oberösterreich,Netz Oberösterreich GmbH,13.1332,48.12056,ELWOG,1,ja
+215,Ohlsdorf,Oberösterreich,Netz Oberösterreich GmbH,13.79754,47.97039,ELWOG,1,ja
+216,Partenstein,Oberösterreich,Netz Oberösterreich GmbH,13.98668,48.43376,ELWOG,1,ja
+217,Pfandl,Oberösterreich,Netz Oberösterreich GmbH,13.59642,47.71763,ELWOG,1,ja
+218,Puchberg,Oberösterreich,Netz Oberösterreich GmbH,14.00561,48.18348,ELWOG,1,ja
+219,Pyhrn,Oberösterreich,Netz Oberösterreich GmbH,14.3298,47.67861,ELWOG,1,ja
+220,Raab,Oberösterreich,Netz Oberösterreich GmbH,13.62418,48.35418,ELWOG,1,ja
+221,Ranna,Oberösterreich,Netz Oberösterreich GmbH,13.7514,48.49012,ELWOG,1,ja
+222,Ranshofen,Oberösterreich,Netz Oberösterreich GmbH,13.0354,48.22095,ELWOG,1,ja
+223,Regau,Oberösterreich,Netz Oberösterreich GmbH,13.71635,47.98701,ELWOG,1,ja
+224,Ried ,Oberösterreich,Netz Oberösterreich GmbH,13.51476,48.21125,ELWOG,1,ja
+225,Riedersbach,Oberösterreich,Netz Oberösterreich GmbH,12.84163,48.02941,ELWOG,1,ja
+226,Rohrbach-Berg,Oberösterreich,Netz Oberösterreich GmbH,13.9943,48.55598,ELWOG,1,ja
+227,Roßbach,Oberösterreich,Netz Oberösterreich GmbH,13.27164,48.19743,ELWOG,1,ja
+228,Rottenbach,Oberösterreich,Netz Oberösterreich GmbH,13.67165,48.21193,ELWOG,1,nein
+229,Sattledt,Oberösterreich,Netz Oberösterreich GmbH,14.05201,48.08358,ELWOG,1,ja
+230,Steeg,Oberösterreich,Netz Oberösterreich GmbH,13.63271,47.60801,ELWOG,1,ja
+231,Steinfelden,Oberösterreich,Netz Oberösterreich GmbH,13.99079,47.92386,ELWOG,1,ja
+232,Steinkogl,Oberösterreich,Netz Oberösterreich GmbH,13.73934,47.78422,ELWOG,1,ja
+233,Steyr,Oberösterreich,Netz Oberösterreich GmbH,14.43885,48.04326,ELWOG,1,ja
+234,Steyr Nord,Oberösterreich,Netz Oberösterreich GmbH,14.42331,48.06808,ELWOG,1,ja
+235,Tillysburg,Oberösterreich,Netz Oberösterreich GmbH,14.42046,48.21255,ELWOG,1,ja
+236,Timelkam,Oberösterreich,Netz Oberösterreich GmbH,13.58914,48.01062,ELWOG,1,ja
+237,Traun Pucking,Oberösterreich,Netz Oberösterreich GmbH,14.22358,48.20527,ELWOG,1,ja
+238,Traunfall,Oberösterreich,Netz Oberösterreich GmbH,13.80369,48.01908,ELWOG,1,ja
+239,Unterach,Oberösterreich,Netz Oberösterreich GmbH,13.45636,47.80463,ELWOG,1,ja
+240,Vöcklabruck,Oberösterreich,Netz Oberösterreich GmbH,13.6587,47.99127,ELWOG,1,ja
+241,Vorchdorf,Oberösterreich,Netz Oberösterreich GmbH,13.90662,48.00466,ELWOG,1,ja
+242,Wegscheid,Oberösterreich,Netz Oberösterreich GmbH,14.2685,48.24694,ELWOG,1,ja
+244,Angertal,Salzburg,Salzburg Netz GmbH,13.106604,47.151028527778,ELWOG,1,ja
+245,Annaberg,Salzburg,Salzburg Netz GmbH,13.422932,47.537516833333,ELWOG,1,ja
+246,Böckstein,Salzburg,Salzburg Netz GmbH,13.114762,47.086677472222,ELWOG,1,ja
+247,Dießbach,Salzburg,Salzburg Netz GmbH,12.817837,47.491358611111,ELWOG,1,ja
+248,Eichet,Salzburg,Salzburg Netz GmbH,13.036142,47.750859583333,ELWOG,1,ja
+249,Flachauwinkl,Salzburg,Salzburg Netz GmbH,13.393086,47.309433,ELWOG,1,nein
+250,Flachgau,Salzburg,Salzburg Netz GmbH,13.119579,47.891374,ELWOG,1,ja
+251,Golling,Salzburg,Salzburg Netz GmbH,13.179971,47.591293583333,ELWOG,1,ja
+252,Göming,Salzburg,Salzburg Netz GmbH,12.954882,47.953168,ELWOG,1,ja
+253,Hagenau,Salzburg,Salzburg Netz GmbH,13.02878,47.832064472222,ELWOG,1,ja
+254,Hinterglemm,Salzburg,Salzburg Netz GmbH,12.592483,47.373933416667,ELWOG,1,ja
+255,Hof,Salzburg,Salzburg Netz GmbH,13.199438,47.823726083333,ELWOG,1,ja
+256,Lend,Salzburg,Salzburg Netz GmbH,13.049989,47.293911666667,ELWOG,1,ja
+257,Lungau,Salzburg,Salzburg Netz GmbH,13.622428,47.094304083333,ELWOG,1,ja
+258,Maishofen,Salzburg,Salzburg Netz GmbH,12.816824,47.348244388889,ELWOG,1,ja
+259,Mittersill,Salzburg,Salzburg Netz GmbH,12.471897,47.278145277778,ELWOG,1,ja
+260,Oberalm,Salzburg,Salzburg Netz GmbH,13.082389,47.706678305556,ELWOG,1,ja
+261,Pinzgau,Salzburg,Salzburg Netz GmbH,12.812882,47.285445166667,ELWOG,1,ja
+262,Pongau,Salzburg,Salzburg Netz GmbH,13.210592,47.379294194444,ELWOG,1,ja
+263,Reitdorf,Salzburg,Salzburg Netz GmbH,13.385313,47.364404472222,ELWOG,1,ja
+264,Saalfelden,Salzburg,Salzburg Netz GmbH,12.865153,47.422742111111,ELWOG,1,ja
+265,Salzburg Mitte,Salzburg,Salzburg Netz GmbH,13.03861,47.809728,ELWOG,1,ja
+266,Strobl,Salzburg,Salzburg Netz GmbH,13.5058,47.72259775,ELWOG,1,ja
+267,Taxach,Salzburg,Salzburg Netz GmbH,13.060506,47.715008861111,ELWOG,1,ja
+268,Wald i.P.,Salzburg,Salzburg Netz GmbH,12.230219,47.243968361111,ELWOG,1,ja
+269,Arnstein,Steiermark,Energienetze Steiermark GmbH,15.158988998687,47.018535311505,ELWOG,1,ja
+270,Bärnbach,Steiermark,Energienetze Steiermark GmbH,15.135019957091,47.055731710617,ELWOG,1,ja
+271,Baumkirchen,Steiermark,Energienetze Steiermark GmbH,14.747819574764,47.155466226038,ELWOG,1,ja
+272,Bergla,Steiermark,Energienetze Steiermark GmbH,15.280921332103,46.751429785355,ELWOG,1,ja
+273,Birkfeld,Steiermark,Energienetze Steiermark GmbH,15.690807399116,47.344377629129,ELWOG,1,ja
+274,Bodendorf,Steiermark,Energienetze Steiermark GmbH,14.065374850378,47.108303569947,ELWOG,1,ja
+275,Brodingberg,Steiermark,Energienetze Steiermark GmbH,15.616158536948,47.128693792919,ELWOG,1,ja
+276,Bruck/Mur,Steiermark,Energienetze Steiermark GmbH,15.274037285559,47.423320602973,ELWOG,1,ja
+277,Büchsengut,Steiermark,Energienetze Steiermark GmbH,15.208304568867,47.520842834574,ELWOG,1,ja
+278,Deutschfeistritz,Steiermark,Energienetze Steiermark GmbH,15.32264939684,47.20547490288,ELWOG,1,ja
+279,Deutschlandsberg,Steiermark,Energienetze Steiermark GmbH,15.226245550186,46.818083528125,ELWOG,1,ja
+280,Essling/Enns,Steiermark,Energienetze Steiermark GmbH,14.683546361536,47.713525660992,ELWOG,1,ja
+281,Feldbach,Steiermark,Energienetze Steiermark GmbH,15.899510190119,46.950923301706,ELWOG,1,ja
+282,Frohnleiten,Steiermark,Energienetze Steiermark GmbH,15.317444137316,47.280345219723,ELWOG,1,ja
+283,Fürstenfeld,Steiermark,Energienetze Steiermark GmbH,16.061496195149,47.051825680474,ELWOG,1,ja
+284,Gleisdorf,Steiermark,Energienetze Steiermark GmbH,15.705668857304,47.112727111702,ELWOG,1,ja
+285,Gosdorf,Steiermark,Energienetze Steiermark GmbH,15.782681551972,46.739109826615,ELWOG,1,ja
+286,Grambach,Steiermark,Energienetze Steiermark GmbH,15.491533518914,47.016300891384,ELWOG,1,ja
+287,Graz Nord,Steiermark,Energienetze Steiermark GmbH,15.416455360848,47.094526504742,ELWOG,1,ja
+288,Graz Ost,Steiermark,Energienetze Steiermark GmbH,15.469369,47.082765,ELWOG,1,ja
+289,Graz Süd,Steiermark,Energienetze Steiermark GmbH,15.441360691571,47.049484561596,ELWOG,1,ja
+290,Hadersdorf,Steiermark,Energienetze Steiermark GmbH,15.413190558944,47.496237778754,ELWOG,1,ja
+291,Halbenrain,Steiermark,Energienetze Steiermark GmbH,15.95708817158,46.718476698944,ELWOG,1,ja
+292,Hartberg,Steiermark,Energienetze Steiermark GmbH,15.97114136025,47.26460901211,ELWOG,1,ja
+293,Haus,Steiermark,Energienetze Steiermark GmbH,13.772185387677,47.413767344208,ELWOG,1,ja
+294,Hessenberg,Steiermark,Energienetze Steiermark GmbH,15.021811669854,47.397553180679,ELWOG,1,ja
+295,Hieflau,Steiermark,Energienetze Steiermark GmbH,14.742646117531,47.605648319947,ELWOG,1,ja
+296,Hohenbrugg,Steiermark,Energienetze Steiermark GmbH,15.989185752518,47.142463015833,ELWOG,1,ja
+297,Irdning,Steiermark,Energienetze Steiermark GmbH,14.10727830285,47.490587199711,ELWOG,1,ja
+298,Judenburg West,Steiermark,Energienetze Steiermark GmbH,14.637087419504,47.174075413195,ELWOG,1,ja
+300,Knittelfeld Ost,Steiermark,Energienetze Steiermark GmbH,14.842376648864,47.22056550502,ELWOG,1,ja
+301,Leibnitz,Steiermark,Energienetze Steiermark GmbH,15.559517153563,46.800178524481,ELWOG,1,ja
+302,Leoben West,Steiermark,Energienetze Steiermark GmbH,15.082336816165,47.372793466697,ELWOG,1,ja
+303,Lieboch,Steiermark,Energienetze Steiermark GmbH,15.346670903238,46.955598115541,ELWOG,1,ja
+304,Liezen,Steiermark,Energienetze Steiermark GmbH,14.253747480088,47.566380054705,ELWOG,1,ja
+305,Merkendorf,Steiermark,Energienetze Steiermark GmbH,15.901534287819,46.862146883616,ELWOG,1,ja
+306,Mitterdorf,Steiermark,Energienetze Steiermark GmbH,15.51603825577,47.530855949857,ELWOG,1,ja
+307,Modriach,Steiermark,Energienetze Steiermark GmbH,15.058572,46.964155,ELWOG,1,ja
+308,Mürzzuschlag,Steiermark,Energienetze Steiermark GmbH,15.663905369176,47.588328638682,ELWOG,1,ja
+309,Neudorf/Werndorf,Steiermark,Energienetze Steiermark GmbH,15.484266639257,46.909003086253,ELWOG,1,ja
+310,Pernegg,Steiermark,Energienetze Steiermark GmbH,15.333673,47.364594,ELWOG,1,ja
+311,Pirka,Steiermark,Energienetze Steiermark GmbH,15.408909609802,47.005227563192,ELWOG,1,ja
+312,Schachen,Steiermark,Energienetze Steiermark GmbH,15.870586726809,47.39671340503,ELWOG,1,ja
+313,Schwarzenbach,Steiermark,Energienetze Steiermark GmbH,14.464750843097,47.494580823611,ELWOG,1,ja
+314,Sölk,Steiermark,Energienetze Steiermark GmbH,13.949023758045,47.434013288728,ELWOG,1,ja
+315,Teufenbach,Steiermark,Energienetze Steiermark GmbH,14.363528396438,47.134175447783,ELWOG,1,ja
+316,Trofeng,Steiermark,Energienetze Steiermark GmbH,14.906040258532,47.541740917166,ELWOG,1,ja
+317,Unterrohr,Steiermark,Energienetze Steiermark GmbH,16.049042951396,47.240741381141,ELWOG,1,ja
+318,Webling,Steiermark,Energienetze Steiermark GmbH,15.41822226074,47.034302696041,ELWOG,1,ja
+319,Weiz,Steiermark,Energienetze Steiermark GmbH,15.631367589687,47.20680630423,ELWOG,1,ja
+320,Zettling,Steiermark,Energienetze Steiermark GmbH,15.444695,46.957257,ELWOG,1,ja
+321,Hall b.A.,Steiermark,Energienetze Steiermark GmbH,14.469197,47.59276,ELWOG,1,ja
+322,Rohrbach a.d. Lafnitz,Steiermark,Energienetze Steiermark GmbH,15.9991,47.39124,ELWOG,1,ja
+323,Bad Aussee,Steiermark,Netz Oberösterreich GmbH,13.79074,47.61304,ELWOG,1,ja
+325,Kapfenberg,Steiermark,Energienetze Steiermark GmbH,15.295979,47.441803,ELWOG,1,ja
+329,Graz West,Steiermark,Stromnetz Graz GmbH,15.4197422,47.0657789,ELWOG,7,ja
+330,Keplerbrücke,Steiermark,Stromnetz Graz GmbH,15.434002,47.0771313,ELWOG,7,ja
+332,Biberwier,Tirol,Elektrizitätswerke Reutte AG,10.890837,47.376774,ELWOG,1,ja
+333,Reutte,Tirol,Elektrizitätswerke Reutte AG,10.747296,47.493674,ELWOG,1,ja
+335,Ahrental,Tirol,IKB - Innsbruckerkommunalbetriebe AG,11.39653,47.21532,ELWOG,7,ja
+336,Innsbruck Mitte,Tirol,IKB - Innsbruckerkommunalbetriebe AG,11.39712,47.2625,ELWOG,7,ja
+337,Innsbruck Nord,Tirol,IKB - Innsbruckerkommunalbetriebe AG,11.40177,47.27871,ELWOG,7,ja
+340,Amlach,Tirol,TINETZ - Tiroler Netze GmbH,12.749792189,46.80185546,ELWOG,1,ja
+341,Bösdornau,Tirol,TINETZ - Tiroler Netze GmbH,11.833558559,47.152121995,ELWOG,1,ja
+342,Brennerwerk,Tirol,TINETZ - Tiroler Netze GmbH,11.449154882,47.145991608,ELWOG,1,ja
+343,Brixen,Tirol,TINETZ - Tiroler Netze GmbH,12.275560982,47.458392938,ELWOG,1,ja
+344,Ebbs,Tirol,TINETZ - Tiroler Netze GmbH,12.258381144,47.645119359,ELWOG,1,ja
+345,Ellmau,Tirol,TINETZ - Tiroler Netze GmbH,12.268718041,47.525086742,ELWOG,1,ja
+346,Fiss,Tirol,TINETZ - Tiroler Netze GmbH,10.63964368,47.059730075,ELWOG,1,ja
+347,Fügen,Tirol,TINETZ - Tiroler Netze GmbH,11.859974311,47.356578239,ELWOG,1,ja
+348,Fulpmes,Tirol,TINETZ - Tiroler Netze GmbH,11.341868635,47.137255934,ELWOG,1,ja
+349,Funsingau,Tirol,TINETZ - Tiroler Netze GmbH,12.056854439,47.234920403,ELWOG,1,ja
+350,Habichen,Tirol,TINETZ - Tiroler Netze GmbH,10.910432,47.187295,ELWOG,1,nein
+351,Hall i.T.,Tirol,TINETZ - Tiroler Netze GmbH,11.498464753,47.274925634,ELWOG,1,ja
+352,Hochfilzen,Tirol,TINETZ - Tiroler Netze GmbH,12.630984217,47.470315622,ELWOG,1,ja
+353,Hopfgarten,Tirol,TINETZ - Tiroler Netze GmbH,12.146466712,47.457434769,ELWOG,1,ja
+354,Imst,Tirol,TINETZ - Tiroler Netze GmbH,10.719806959,47.211683943,ELWOG,1,ja
+355,Innsbruck Ost,Tirol,TINETZ - Tiroler Netze GmbH,11.428248163,47.271697492,ELWOG,1,ja
+356,Jenbach,Tirol,TINETZ - Tiroler Netze GmbH,11.757302103,47.389377804,ELWOG,1,ja
+357,Kalserbach,Tirol,TINETZ - Tiroler Netze GmbH,12.600560137,46.92314641,ELWOG,1,ja
+358,Kirchbichl,Tirol,TINETZ - Tiroler Netze GmbH,12.07568326,47.52208091,ELWOG,1,ja
+359,Kitzbühel,Tirol,TINETZ - Tiroler Netze GmbH,12.389577986,47.456054193,ELWOG,1,ja
+360,Kramsach,Tirol,TINETZ - Tiroler Netze GmbH,11.865459585,47.433811913,ELWOG,1,ja
+361,Kufstein,Tirol,TINETZ - Tiroler Netze GmbH,12.147714634,47.578910931,ELWOG,1,ja
+362,Kundl,Tirol,TINETZ - Tiroler Netze GmbH,11.974760465,47.46743363,ELWOG,1,ja
+363,Landeck,Tirol,TINETZ - Tiroler Netze GmbH,10.564081534,47.142856682,ELWOG,1,ja
+364,Matrei i.O.,Tirol,TINETZ - Tiroler Netze GmbH,12.548087044,46.978787304,ELWOG,1,nein
+365,Ötztal,Tirol,TINETZ - Tiroler Netze GmbH,10.868825251,47.242761377,ELWOG,1,ja
+366,Prutz,Tirol,TINETZ - Tiroler Netze GmbH,10.665368186,47.069492641,ELWOG,1,ja
+367,Reith b.S.,Tirol,TINETZ - Tiroler Netze GmbH,11.19499226,47.312556604,ELWOG,1,ja
+368,Rietz,Tirol,TINETZ - Tiroler Netze GmbH,11.057028852,47.292603291,ELWOG,1,ja
+369,Schwaz,Tirol,TINETZ - Tiroler Netze GmbH,11.700915934,47.352497099,ELWOG,1,ja
+370,Sillian,Tirol,TINETZ - Tiroler Netze GmbH,12.433903664,46.747669592,ELWOG,1,ja
+371,Sölden,Tirol,TINETZ - Tiroler Netze GmbH,11.012475687,46.982145559,ELWOG,1,ja
+372,St. Jakob a.A.,Tirol,TINETZ - Tiroler Netze GmbH,10.312476873,47.144872947,ELWOG,1,ja
+373,St. Johann i.T.,Tirol,TINETZ - Tiroler Netze GmbH,12.418776105,47.515915343,ELWOG,1,ja
+374,Steinach,Tirol,TINETZ - Tiroler Netze GmbH,11.474076012,47.083036303,ELWOG,1,ja
+375,Stribach,Tirol,TINETZ - Tiroler Netze GmbH,12.819569349,46.828983546,ELWOG,1,ja
+376,Tobadill,Tirol,TINETZ - Tiroler Netze GmbH,10.498657863,47.118885877,ELWOG,1,ja
+377,Völs,Tirol,TINETZ - Tiroler Netze GmbH,11.312761502,47.258550162,ELWOG,1,ja
+378,Wattens,Tirol,TINETZ - Tiroler Netze GmbH,11.595083257,47.298949994,ELWOG,1,ja
+379,Wilten,Tirol,TINETZ - Tiroler Netze GmbH,11.393482455,47.252641655,ELWOG,1,ja
+380,Zell am Ziller,Tirol,TINETZ - Tiroler Netze GmbH,11.898851303,47.232411183,ELWOG,1,ja
+381,Zirl,Tirol,TINETZ - Tiroler Netze GmbH,11.214722293,47.279544552,ELWOG,1,ja
+382,Andelsbuch,Vorarlberg,Vorarlberger Energienetze GmbH,9.87713642,47.40123515,ELWOG,1,ja
+383,Brederis,Vorarlberg,Vorarlberger Energienetze GmbH,9.61579474,47.27996042,ELWOG,1,ja
+384,Bürs,Vorarlberg,Vorarlberger Energienetze GmbH,9.81609198,47.15136937,ELWOG,1,ja
+386,Dornbirn Süd,Vorarlberg,Vorarlberger Energienetze GmbH,9.73230318,47.40960485,ELWOG,1,ja
+387,Feldkirch,Vorarlberg,Vorarlberger Energienetze GmbH,9.58950274,47.23271648,ELWOG,1,ja
+388,Frastanz,Vorarlberg,Vorarlberger Energienetze GmbH,9.64235819,47.22215864,ELWOG,1,ja
+390,Gisingen,Vorarlberg,Vorarlberger Energienetze GmbH,9.58446747,47.25229086,ELWOG,1,ja
+391,Götzis,Vorarlberg,Vorarlberger Energienetze GmbH,9.62973621,47.3345809,ELWOG,1,ja
+392,Hard,Vorarlberg,Vorarlberger Energienetze GmbH,9.69282719,47.48040745,ELWOG,1,ja
+393,Haselstauden,Vorarlberg,Vorarlberger Energienetze GmbH,9.74853484,47.43279281,ELWOG,1,ja
+394,Höchst,Vorarlberg,Vorarlberger Energienetze GmbH,9.65772894,47.46366082,ELWOG,1,ja
+395,Hofsteig,Vorarlberg,Vorarlberger Energienetze GmbH,9.7342081587076,47.464072095503,ELWOG,1,nein
+396,Hohenems,Vorarlberg,Vorarlberger Energienetze GmbH,9.66908417,47.36671627,ELWOG,1,ja
+397,Hörbranz,Vorarlberg,Vorarlberger Energienetze GmbH,9.74895802,47.54271912,ELWOG,1,ja
+398,Lustenau,Vorarlberg,Vorarlberger Energienetze GmbH,9.67501849,47.43520509,ELWOG,1,ja
+399,Nenzing,Vorarlberg,Vorarlberger Energienetze GmbH,9.71306239,47.19114058,ELWOG,1,ja
+400,Rauz,Vorarlberg,Vorarlberger Energienetze GmbH,10.17921888,47.13797506,ELWOG,1,ja
+401,Rieden,Vorarlberg,Vorarlberger Energienetze GmbH,9.73783804,47.48736055,ELWOG,1,ja
+402,Tschagguns,Vorarlberg,Vorarlberger Energienetze GmbH,9.91614602,47.06837406,ELWOG,1,ja
+403,Vorderwald,Vorarlberg,Vorarlberger Energienetze GmbH,9.853138,47.47179051,ELWOG,1,ja
+404,Vorkloster,Vorarlberg,Vorarlberger Energienetze GmbH,9.720639,47.4946339,ELWOG,1,ja
+405,Weiler Klaus,Vorarlberg,Vorarlberger Energienetze GmbH,9.622074,47.30420171,ELWOG,1,ja
+406,Eisenstadtplatz,Wien,Wiener Netze GmbH,16.38232,48.16506,ELWOG,1,ja
+407,Essling,Wien,Wiener Netze GmbH,16.52481,48.21376,ELWOG,1,ja
+408,Favoriten,Wien,Wiener Netze GmbH,16.37744,48.18251,ELWOG,1,ja
+409,Gaudenzdorf,Wien,Wiener Netze GmbH,16.33929,48.18669,ELWOG,1,ja
+410,Handelskai,Wien,Wiener Netze GmbH,16.40834,48.22289,ELWOG,1,ja
+411,Heiligenstadt,Wien,Wiener Netze GmbH,16.36245,48.24404,ELWOG,1,ja
+412,Josefstadt,Wien,Wiener Netze GmbH,16.34975,48.20786,ELWOG,1,ja
+413,Kagran,Wien,Wiener Netze GmbH,16.45481,48.24902,ELWOG,1,ja
+414,Kaiserebersdorf,Wien,Wiener Netze GmbH,16.47563,48.15599,ELWOG,1,ja
+415,Kaunitzgasse,Wien,Wiener Netze GmbH,16.35362,48.19668,ELWOG,1,ja
+416,Landstraße,Wien,Wiener Netze GmbH,16.40036,48.18574,ELWOG,1,ja
+417,Leopoldau,Wien,Wiener Netze GmbH,16.42058,48.2721,ELWOG,1,ja
+419,Leopoldstadt,Wien,Wiener Netze GmbH,16.37194,48.22354,ELWOG,1,ja
+420,Liesing,Wien,Wiener Netze GmbH,16.29701,48.13784,ELWOG,1,ja
+422,Mariahilf,Wien,Wiener Netze GmbH,16.36095,48.2012,ELWOG,1,ja
+423,Messe,Wien,Wiener Netze GmbH,16.41072,48.21024,ELWOG,1,ja
+424,Michelbeuern,Wien,Wiener Netze GmbH,16.34889,48.22236,ELWOG,1,ja
+425,Neubadgasse,Wien,Wiener Netze GmbH,16.36771,48.20964,ELWOG,1,ja
+426,Ottakring,Wien,Wiener Netze GmbH,16.32146,48.21504,ELWOG,1,ja
+427,Penzing,Wien,Wiener Netze GmbH,16.31043,48.19486,ELWOG,1,ja
+428,Schmelz,Wien,Wiener Netze GmbH,16.333,48.20054,ELWOG,1,ja
+429,Schwechat,Wien,Wiener Netze GmbH,16.50704,48.13583,ELWOG,1,ja
+430,Simmering,Wien,Wiener Netze GmbH,16.43083,48.18278,ELWOG,1,ja
+431,Speising,Wien,Wiener Netze GmbH,16.28895,48.17101,ELWOG,1,ja
+432,Stadlau,Wien,Wiener Netze GmbH,16.45869,48.22687,ELWOG,1,ja
+434,Währing,Wien,Wiener Netze GmbH,16.33424,48.22719,ELWOG,1,ja
+435,Weißgerber,Wien,Wiener Netze GmbH,16.39108,48.20546,ELWOG,1,ja
+436,Wien Nord,Wien,Wiener Netze GmbH,16.38973,48.25722,ELWOG,1,ja
+437,Wien Süd,Wien,Wiener Netze GmbH,16.33101,48.16509,ELWOG,1,ja
+438,Wien Südost,Wien,Wiener Netze GmbH,16.42109,48.12457,ELWOG,1,ja
+439,Wien West,Wien,Wiener Netze GmbH,16.23681,48.20076,ELWOG,1,ja
+440,Wienerberg,Wien,Wiener Netze GmbH,16.35388,48.1684,ELWOG,1,ja
+441,Zedlitzhalle,Wien,Wiener Netze GmbH,16.378,48.20627,ELWOG,1,ja
+442,Andau,Burgenland,Netz Burgenland GmbH,17.042380848107,47.8160874932938,NEP,0,ja
+443,Bruckneudorf,Burgenland,Netz Burgenland GmbH,16.8604521333035,48.0207432655962,NEP,0,ja
+444,Parndorf,Burgenland,Netz Burgenland GmbH,16.8894529633306,47.9882131833628,NEP,0,ja
+445,Wallern-Tadten,Burgenland,Netz Burgenland GmbH,16.9340521064119,47.7492870644253,OIM,0,nein
+446,Südstadt,Niederösterreich,Netz Niederösterreich GmbH,16.31135,48.0946,OnlineTool,9,ja
+447,Pöchlarn,Niederösterreich,Netz Niederösterreich GmbH,15.2185113021254,48.2047632418401,BEV/OIM,0,ja
+448,Scharndorf,Niederösterreich,Netz Niederösterreich GmbH,16.8378783105516,48.0810819078372,BEV/OIM,0,ja
+449,Pottendorf,Niederösterreich,Wiener Netze GmbH,16.3575621095645,47.9292695077537,BEV/OIM,0,ja
+450,Hütte Krems,Niederösterreich,Netz Niederösterreich GmbH,15.650934077277,48.4081492823918,BEV/OIM,2,ja
+451,Mannersdorf,Niederösterreich,Netz Niederösterreich GmbH,16.6093180553251,47.9852012731784,BEV/OIM,2,ja
+452,Pernhofen,Niederösterreich,Netz Niederösterreich GmbH,16.2814606672967,48.7203439981942,BEV/OIM,2,ja
+453,Pischelsdorf,Niederösterreich,Netz Niederösterreich GmbH,15.9415243919019,48.3298920997693,BEV/OIM,2,ja
+454,Pitten,Niederösterreich,Netz Niederösterreich GmbH,16.1677271278287,47.704608910367,BEV/OIM,2,ja
+455,Laakirchen,Oberösterreich,Netz Oberösterreich GmbH,13.8140169019737,47.9813449586548,NEP,2,ja
+456,Lenzing,Oberösterreich,Netz Oberösterreich GmbH,13.6199279843312,47.9835193329851,NEP,2,ja
+457,Nettingsdorf,Oberösterreich,Netz Oberösterreich GmbH,14.2525692534353,48.1842454087296,NEP,2,ja
+458,Steyrermühl,Oberösterreich,Netz Oberösterreich GmbH,13.7998521620229,47.996844611004,NEP,2,ja
+459,Steyr Ost,Oberösterreich,Netz Oberösterreich GmbH,14.4540514907718,48.0470951201207,NEP,2,ja
+460,WAV,Oberösterreich,Energie AG Umweltservice,14.0746916411806,48.1700225581848,NEP,2,ja
+461,Hütte Nord,Oberösterreich,Voestalpine,14.3421587040187,48.2835499082711,BEV/OIM,2,ja
+462,Hütte Ost,Oberösterreich,Voestalpine,14.3452244157393,48.2769618118842,BEV/OIM,2,ja
+463,Hütte Süd,Oberösterreich,Voestalpine,14.3421776980005,48.2669324915213,BEV/OIM,2,ja
+464,Kronstorf West,Oberösterreich,Netz Oberösterreich GmbH,14.4527976553173,48.1277502076923,OIM,1,nein
+465,Ardning,Steiermark,Energienetze Steiermark GmbH,14.3485884458744,47.5891260121508,NEP,1,ja
+466,Friesach,Steiermark,Energienetze Steiermark GmbH,15.3302232359684,47.144358394702,NEP,1,ja
+467,St. Michael,Steiermark,Energienetze Steiermark GmbH,15.0017019424637,47.3588275245937,NEP,1,ja
+468,St. Stephan,Steiermark,Energienetze Steiermark GmbH,15.7281194665936,46.8831250194566,NEP,1,ja
+469,Feiting,Steiermark,Energienetze Steiermark GmbH,15.6019062543135,46.9111698866222,NEP,8,ja
+470,Pinggau,Steiermark,Energienetze Steiermark GmbH,16.0808730009301,47.4262259315884,NEP,8,ja
+471,St. Johann i.d. Haide,Steiermark,Energienetze Steiermark GmbH,16.0116077845496,47.2817754839576,NEP,8,ja
+472,Unterrettenbach,Steiermark,Energienetze Steiermark GmbH,15.8443943693457,47.1105753709438,NEP,8,ja
+473,Böhlerwerk,Steiermark,Energienetze Steiermark GmbH,15.2736,47.44422,NEP,2,ja
+474,Gratkorn,Steiermark,Energienetze Steiermark GmbH,15.3282436939359,47.1316163713848,NEP,2,ja
+475,Kindberg,Steiermark,Energienetze Steiermark GmbH,15.4311703611344,47.4994653084689,NEP,2,ja
+476,Pöls,Steiermark,Energienetze Steiermark GmbH,14.5905722035954,47.2140906064377,NEP,2,ja
+477,Thondorf,Steiermark,Energienetze Steiermark GmbH,15.4773197144109,47.0174991601335,NEP,2,ja
+478,Breitenfeld,Steiermark,Energienetze Steiermark GmbH,15.4988199333651,47.5343376036368,BEV/OIM,2,ja
+479,Donawitz Nord,Steiermark,Energienetze Steiermark GmbH,15.0517876473638,47.3878723363286,BEV/OIM,2,ja
+480,Messendorf,Steiermark,Energienetze Steiermark GmbH,15.4790951770136,47.0435350805909,BEV/OIM,2,ja
+481,Retznai,Steiermark,Energienetze Steiermark GmbH,15.5743198264641,46.7363251048484,BEV/OIM,2,ja
+482,Gruben,Tirol,TINETZ - Tiroler Netze GmbH,12.5165217047047,47.0357656568025,BEV/OIM,8,ja
+483,Galgenul,Vorarlberg,Vorarlberger Energienetze GmbH,9.96593108475774,47.020879430054,NEP,1,ja
+484,Westegg ,Vorarlberg,EVK - Energieversorgung Kleinwalsertal,10.19719,47.36348,BEV,1,ja

@@ -1,0 +1,14 @@
+Ausgewiesen sind die Versorgungsgebiete der neun Landesnetzbetreiber, die teilweise nicht mit der Ausdehnung der
+Bundesländer übereinstimmen (z.B. das Versorgungs­gebiet der Wiener Netze umfasst auch das Wiener Umland und reicht im
+Süden bis Wiener Neustadt; das Versorgungsgebiet der Netz Oberösterreich GmbH schließt auch das steirische Salzkammergut
+mit dem Umspannwerk Bad Aussee ein). Weiters werden die Versorgungsgebiete der Linz Netz GmbH (versorgt Gemeinden im
+Nordosten Ober­österreichs) und der Elektrizitäts­werke Reutte AG (versorgt Gemeinden vornehmlich im Tiroler Lechtal)
+separat berücksichtigt.
+
+Unberücksichtigt bleiben einzelne räumlich begrenzte Enklaven innerhalb der genann­ten Versorgungsgebiete. Dies gilt
+auch für die innerhalb der größeren Städte (Klagenfurt, Linz, Wels, Graz, Innsbruck) befind­lichen Versorgungsgebiete
+kommunaler Stromnetz­betreiber und ist vornehmlich den unzureichenden Infor­ma­tionen über den Verlauf innerstädtischer
+Leitungen geschuldet; die genannten Städte werden unmittel­bar dem nächstgelegenen Umspannwerk des entsprechen­den
+Landesnetzbetreibers und damit dessen Versorgungsgebiet zuge­ordnet. Ausgewählte Umspannwerke innerhalb der Stadt Wien
+sind im Datensatz enthalten, um in die Lastflussanalyse eingehende Daten auf der Ebene der Wiener Stadtbezirke in
+größtmöglicher räumlicher Auf­lösung berücksichtigen zu können. 
