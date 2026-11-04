@@ -1,8 +1,10 @@
+from connectors.consumer_substation_connector import connect_consumer_to_substation
 from connectors.generator_substation_connector import connect_generator_to_substation
 from connectors.line_substation_connector import remove_virtual_substations
 from connectors.manual_connections import add_manual_connections
 from exporters.geojson_export import GeoJsonExporter
 from exporters.model_export import export_model
+from loaders.consumer_loader import load_consumers
 from loaders.generator_loader import load_generators
 from loaders.line_loader import load_lines
 from loaders.substation_loader import get_import_export_substations, load_substations, merge_consumer_substations
@@ -13,6 +15,9 @@ from util.utils import dump_to_cache, load_from_cache, vprint
 def build_model():
     vprint("Loading power generators")
     generators = load_generators()
+
+    vprint("Loading consumers")
+    consumers = load_consumers()
 
     if config.USE_CACHE:
         vprint("Loading lines and substations from cache")
@@ -38,14 +43,16 @@ def build_model():
     vprint("Connecting power generators to closest substation")
     generators = connect_generator_to_substation(generators, substations)
 
+    consumers = connect_consumer_to_substation(consumers, substations)
+
     vprint("Finding import/export substations")
     substations = get_import_export_substations(substations)
 
     if config.GEOJSON:
         vprint("Export geojson with location data")
-        geojson_exporter = GeoJsonExporter(lines, substations, generators)
+        geojson_exporter = GeoJsonExporter(lines, substations, consumers, generators)
         geojson_exporter.prepare_for_export()
         geojson_exporter.export()
 
     vprint("Exporting model")
-    export_model(lines, substations, generators)
+    export_model(lines, substations, consumers, generators)

@@ -5,7 +5,7 @@ import geopandas as gpd
 from util import config
 
 
-def export_model(lines: gpd.GeoDataFrame, subs: gpd.GeoDataFrame, gens: gpd.GeoDataFrame):
+def export_model(lines: gpd.GeoDataFrame, subs: gpd.GeoDataFrame, cons: gpd.GeoDataFrame, gens: gpd.GeoDataFrame):
     destination_dirs = [config.EXPORT_DIR, "results"]
 
     subs["voltage"] = subs["voltage"].apply(json.dumps)
@@ -14,5 +14,6 @@ def export_model(lines: gpd.GeoDataFrame, subs: gpd.GeoDataFrame, gens: gpd.GeoD
     for dir in destination_dirs:
         lines.to_file(f"{dir}/lines.gpkg", driver="GPKG")
         gens.to_file(f"{dir}/generators.gpkg", driver="GPKG")
+        cons.to_file(f"{dir}/consumers.gpkg", driver="GPKG")
 
         subs.to_file(f"{dir}/substations.gpkg", driver="GPKG")
