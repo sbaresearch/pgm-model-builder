@@ -14,3 +14,17 @@ abgerufen am 24.11.2025
 BEV-Datensatz „Digitales Landschaftsmodell – Bauwerke Stichtag 25.3.2025“
 https://data.bev.gv.at/geonetwork/srv/ger/catalog.search#/metadata/e79b6825-7b6a-45db-b3a7-a44a58732609
 abgerufen am 7.10.2025
+
+Die Spalte „Quelle“ gibt Auskunft über die Herkunft der Informationen über das Umspannwerk. Die Kürzel korrespondieren mit den oben angeführten Quellen für die Umspannwerke der Netzebene 4.
+
+Die Spalte „Typ“ adressiert die Funktion des Umspannwerks:
+* Code = 0: Umspannwerk, das nur der Einspeisung des Stroms aus größeren Wind- und Solarparks in das Hoch- und Höchstspannungsnetz dient.
+* Code = 1: Umspannwerk, das sowohl Verbraucher mit Strom aus dem Hoch- und Höchstspannungsnetz versorgt als auch Strom aus Erzeugungsanlagen in das Hoch- und Höchstspannungsnetz einspeist („Standard-Umspannwerk“).
+* Code = 2: Umspannwerk, das sich am Standort ausgewählter Industrieanlagen befindet.
+* Code = 7: Umspannwerk, das innerhalb der Versorgungsgebiete der größeren Städte (Klagenfurt, Linz, Wels, Graz, Innsbruck) liegt.
+* Code = 8: Umspannwerk, das nur für Pumpstationen der Ölleitungen zur Verfügung steht.
+* Code = 9: Umspannwerk, das keine der genannten Funktionen erfüllt.
+
+Für die Lastflusssimulationen werden nur die Umspannwerke des Typs 0 und 1 herangezogen.
+
+Die Spalte „Betrieb_2022“ gibt Auskunft darüber, ob das Umspannwerk im Jahre 2022 schon in Betrieb war („ja“) oder nicht („nein“). Diese Angaben beruhen nicht auf einer systematischen Erhebung.

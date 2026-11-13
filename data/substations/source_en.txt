@@ -11,6 +11,20 @@ Netz Burgenland GmbH, KNG - Kärnten Netz GmbH, Energie Klagenfurt GmbH, Netz Ni
 https://www.ebutilities.at/informationen/VNEP
 accessed on 24 November 2025
 
-BEV dataset "Digital Landscape Model – Structures (reference date: 25 March 2025)"
+BEV dataset "Digitales Landschaftsmodell – Bauwerke Stichtag 25.3.2025"
 https://data.bev.gv.at/geonetwork/srv/ger/catalog.search#/metadata/e79b6825-7b6a-45db-b3a7-a44a58732609
 accessed on 7 October 2025
+
+The “Quelle” column provides information about the origin of the data on the substation. The abbreviations correspond to the sources listed above for Grid Level 4 substations.
+
+The “Typ” column describes the function of the substation:
+* Code = 0: Substation used exclusively to feed electricity from large wind and solar farms into the high- and extra-high-voltage grid.
+* Code = 1: Substation that both supplies consumers with electricity from the high- and extra-high-voltage grid and feeds electricity from generation facilities into the high- and extra-high-voltage grid (“standard substation”).
+* Code = 2: Substation located at the sites of selected industrial facilities.
+* Code = 7: Substation located within the service areas of major cities (Klagenfurt, Linz, Wels, Graz, Innsbruck).
+* Code = 8: Substation available exclusively for oil pipeline pumping stations.
+* Code = 9: Substation that does not fulfill any of the functions listed above.
+
+Only substations of types 0 and 1 are used for load flow simulations.
+
+The “Betrieb_2022” column indicates whether the substation was already in operation in 2022 (“ja”) or not (“nein”). This information is not based on a systematic survey.
